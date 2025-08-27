@@ -1,7 +1,7 @@
 # 🌡️ Teste com DHT11 e LEDs no ESP32
 
 Este projeto utiliza o sensor DHT11 para leitura de temperatura e umidade com o ESP32. De acordo com a temperatura medida, um LED azul ou vermelho é acionado.
-![Uploading Image.jpg…]()
+ ![Uploading Image.jpg…]()
 
 ## 🛠️ Materiais necessários
 - 1x ESP32
